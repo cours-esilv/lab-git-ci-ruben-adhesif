@@ -37,11 +37,11 @@ jobs:
           files: target/**/*.xml
       
       # Publie les fichiers présents dans le dossier target dans un build artifact
-      - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v2.2.4
-        with:
-          name: my-app-1.0
-          path: target/*
+      #- name: Upload a Build Artifact
+      #  uses: actions/upload-artifact@v2.2.4
+      #  with:
+      #    name: my-app-1.0
+      #    path: target/*
       
       # Installe la commande docker sur l'agent
       - name: Install Docker
