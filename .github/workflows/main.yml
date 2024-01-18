@@ -1,3 +1,6 @@
+# Sorry I didn't understood the file was prepare so I start on my own with the documentation
+# I copy-past everything on classroom.yml at 2.5 but I let this file exist for me
+# Please considere classroom.yml
 name: main_workflows
 run-name: ${{ github.actor }} is modify the repos
 on: [push]
