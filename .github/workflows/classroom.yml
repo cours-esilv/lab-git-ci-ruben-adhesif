@@ -7,7 +7,6 @@ on:
       - main
       - 'feature/*'
   workflow_dispatch:
-    workflow_dispatch
 
 permissions:
   checks: write
