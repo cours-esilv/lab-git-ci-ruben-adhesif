@@ -113,7 +113,7 @@ For more help on pull requests see the [official documentation](https://help.git
 
 ---
 
-#2: CI/CD with GitHub Actions
+# 2: CI/CD with GitHub Actions
 In this second part, you must use the same repo as that obtained at the end of part 1, by placing yourself on the `main` branch of your repo.
 
 > ⚠️ **WARNING**: Each question requiring a code modification requires at least one commit and one push in your repository. The breakdown of commits is taken into account in the scoring.
@@ -132,7 +132,7 @@ Thanks to its pipeline system, this solution can be used to implement the automa
 
 Pipelines are described in YAML (pipeline as code) code files.
 
-For an overview of GitHub Actions features, [see the official page](https://docs.github.com/en/actions)
+For an overview of GitHub Actions features, [see the official page](https://docs.github.com/en/actions)  
 For more documentation on the syntax of YAML files, [see the official documentation](https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions)
 
 **Important**: The above documentation will be essential for the successful completion of this and subsequent tasks.
